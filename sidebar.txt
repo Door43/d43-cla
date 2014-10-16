@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cla:home|Door43 (cla)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cla|d43-cla repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cla/archive/master.zip|d43-cla.zip]]
+
+**Recent Changes**
+{{changes>ns = cla}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cla|Ethnologue data]]
+
